@@ -16,7 +16,7 @@ This project was developed by Seifeddine Ben Hamida and Sarra Zaghbib as part of
 
 ## Usage
 
-1. **Flex Sensor Test**: Upload the `Flex_Sensor_Test.ino` sketch to your Arduino board. Open the serial monitor to observe the flex sensor readings. This allows you to test and calibrate the sensors before recording gestures.
+1. **Flex Sensor Test**: Upload the `SensorTest.ino` sketch to your Arduino board. Open the serial monitor to observe the flex sensor readings. This allows you to test and calibrate the sensors before recording gestures.
 
 2. **Creating the Dataset**: Upload the `esp32P2M.ino` sketch to your Arduino board. Connect the hand gesture  and follow the instructions to record hand gesture sequences. The recorded data will be saved to a file(csv) for further processing.
 
