@@ -18,9 +18,9 @@ This project was developed by Seifeddine Ben Hamida and Sarra Zaghbib as part of
 
 1. **Flex Sensor Test**: Upload the `Flex_Sensor_Test.ino` sketch to your Arduino board. Open the serial monitor to observe the flex sensor readings. This allows you to test and calibrate the sensors before recording gestures.
 
-2. **Creating the Dataset**: Upload the `Create_Dataset.ino` sketch to your Arduino board. Connect the hand gesture  and follow the instructions to record hand gesture sequences. The recorded data will be saved to a file(csv) for further processing.
+2. **Creating the Dataset**: Upload the `esp32P2M.ino` sketch to your Arduino board. Connect the hand gesture  and follow the instructions to record hand gesture sequences. The recorded data will be saved to a file(csv) for further processing.
 
-3. **Model Training**: Open the `Model_Training.ipynb` notebook using Jupyter Notebook or any compatible environment. Follow the step-by-step instructions to preprocess the dataset, define and train the hand gesture recognition model. Evaluate the model's performance and make necessary adjustments if needed.
+3. **Model Training**: Open the `P2M_1_(1).ipynb` notebook using Jupyter Notebook or any compatible environment. Follow the step-by-step instructions to preprocess the dataset, define and train the hand gesture recognition model. Evaluate the model's performance and make necessary adjustments if needed.
 
 ## Dependencies
 
